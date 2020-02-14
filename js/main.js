@@ -923,3 +923,6 @@ $(function () {
     })()
   }
 })
+
+import 'disqusjs/dist/disqusjs.css'
+import DisqusJS from 'disqusjs'
